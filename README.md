@@ -3,7 +3,7 @@
 I’m Josan, I am an analyst at heart with varied experiences in business support roles in the luxury hotel industry, especially in a regional office setting.
 I love working on reports, making sense of data and creating visuals that help in creating strategies that help achieve the overall team goal. 
 
-You may find below some projects I worked, feel free to review and send me a comment/suggestion. 😎
+You may find below some projects I worked on, feel free to review and send me a comment/suggestion. 😎
 
 <!--**JosanQui/JosanQui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
